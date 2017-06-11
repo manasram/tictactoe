@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+
+td{
+    background-color: #5997f9;
+    height: 100px;
+    width: 100px;
+}
+.box2 {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.box3{
+    border-bottom: 1px solid black;
+}
+.box1{
+    border-bottom: 1px solid black;
+}
+.r2b1{
+
+    border-bottom: 1px solid black;
+}
+.r2b2{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.r2b3{
+    border-bottom: 1px solid black;
+}
+.r3b1{
+
+}
+.r3b2{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
